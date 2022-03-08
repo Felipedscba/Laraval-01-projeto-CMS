@@ -1,0 +1,1 @@
+Esse o valor de minhas slug '{{ $slug }}'
