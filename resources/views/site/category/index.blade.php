@@ -1,1 +1,7 @@
-Lista de produtos
+@extends('layouts.front')
+
+@section('content')
+
+Categorias de produtos
+
+@endsection

@@ -1,1 +1,7 @@
-Este é a view de contato
+@extends('layouts.front')
+
+@section('content')
+
+Formulário de contato
+
+@endsection
